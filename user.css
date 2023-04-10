@@ -1,0 +1,34 @@
+.product-display{
+    display: flex;
+    gap: 40px;
+ 
+
+}
+.icon-card{
+    display: flex;
+    text-align: center;
+    padding: 0px 20px;
+}
+.card-img{
+    width: 200px;
+    height: 300px;
+    margin-bottom: 30px;
+    background: #ECF9FF;
+    border-radius: 20px;
+
+}
+.card-img img{
+   
+    width: 90%;
+    align-items: center;
+    padding: 20px 10px ;
+}
+html{
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Roboto Condensed', sans-serif;
+
+
+}
