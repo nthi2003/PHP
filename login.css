@@ -1,0 +1,50 @@
+
+body{
+    background: #fff;
+    font-family: 'Open Sans', sans-serif;
+
+
+    
+}
+.form_input{
+       background: #fff;
+       width: 100%;
+       border: 0;
+       margin: 0 0 15px;
+       font-size: 14px;
+       height: 50px;
+       color: #3b4248;
+       border: none;
+}
+.login{
+    width: 360px;
+    padding: 8% 0 0;
+    margin: auto;
+}
+.form{
+    position: relative;
+    background: #3b4248;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0,.2),0 5px 5px 0 rgba(0, 0, 0, .24);
+}
+.form_field{
+    display: flex;
+
+}
+.form_field label{
+    margin-right: 20px;
+}
+.button{
+    text-transform: uppercase;
+    outline: 0;
+    background:#ECF9FF ;
+    width: 100%;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+}
